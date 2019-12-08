@@ -1,0 +1,26 @@
+body
+{
+    margin-top: 5%;
+}
+
+.chat
+{
+    height: 78vh;
+    overflow-y: auto;
+}
+
+.bar
+{
+    height: 50%;
+    overflow-y: auto;
+}
+
+.right
+{
+    width: 145px;
+    align-self: flex-end;
+}
+.left
+{
+    width: 145px;
+}
